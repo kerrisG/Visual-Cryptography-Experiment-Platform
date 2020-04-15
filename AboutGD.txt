@@ -1,0 +1,63 @@
+ ===>> Classical Encryption
+
+Classical codes are divided into two categories: replacement codes and substitution codes.
+The replacement codes demonstrates column replacement and periodic replacement. The substitution codes demonstrates single-table substitution Caesar cipher and multi-table substitution Virginia cipher, and adds file import function to the substitution codes. .
+In the design of the classical classical codes, the principle of single-table substitution, that is, the principle of affine code and the principle of Caesar cipher are referenced, and 26 English letters are mapped to the different dancing kids and musical notes, thus achieving the design of two visualized crypto platforms.
+
+
+£¨Ò»£©Replacement code
+
+    Rearrange the letters in the plain text, the letters themselves do not change, but their positions have changed, so the code created in this way is called the replacement code.
+
+     ¢ÙColumn Replacement£º
+Principle:
+The plaintext follows the key's rules to transpose columns and read the sequence in column order to get the ciphertext.
+How to use the platform:
+The user can fill in the key in the key box.
+Enter the plain text in the clear text box, press the encryption button to encrypt, or enter the cipher text in the cipher text box, the decrypt button to decrypt, and the clear button to clear all the content in the text box.
+   
+  ¢ÚPeriodic Replacement£º
+Principle:
+The plaintext P is grouped by a fixed length m, and then each group is rearranged according to a certain substitution of 1,2, ..., m to obtain the ciphertext C.
+How to use the platform:
+The user can pull down the key length column to select a different key length from 1 to 10, and the key can be randomly generated.
+Enter the plain text in the clear text box, press the encryption button to encrypt, or enter the cipher text in the cipher text box, the decrypt button to decrypt, and the clear button to clear all the content in the text box.
+
+
+£¨¶þ£©Substitution code
+
+    Substitution is a method of replacing one letter in the plain text with other letters, numbers or symbols.
+
+     ¢ÙCaesar Cipher£º
+Principle:
+The alternative method of Caesar encryption is to arrange the plaintext and ciphertext alphabets. The ciphertext letters indicate that the plaintext alphabet is moved to the left or right by a fixed number of positions.
+How to use the platform:
+Set the number of shift digits from 0 to 25. The user can input the digits by himself or use the arrow buttons to adjust up and down.
+Enter the plain text. The plain text part can be directly input or read from the file.
+Press the encryption button to encrypt, the decryption button to decrypt, and the clear button to clear all text boxes.
+
+     ¢ÚVirginia Cipher£º
+Principle:
+Virginia is a multi-table substitution code, using multiple single tables instead of codes to form a code system. In the process of encrypting the plain text, it uses multiple single tables instead of codes according to the instructions of the key.
+How to use the platform:
+The user can pull down the key length column to select a different key length from 1 to 10, and the key can be randomly generated.
+Enter the plain text. The plain text part can be directly input or read from the file.
+Press the encryption button to encrypt, the decryption button to decrypt, and the clear button to clear all text boxes.
+
+
+£¨Èý£©Custom Classical Encryption£¨Sheet music/Dance kids£©
+
+ Principle£º
+     1¡¢Single-table Substitution
+    Single-table substitution, when encrypting, replace the letters in the plain text (for example, A-Z, B-D) with a self-made alphabet to achieve encryption.
+     2¡¢Caesar Cipher
+    Refer to the principle part in (2) ¢Ù.
+
+ How to use the platform£º
+Choose the encryption of the sheet music or the encryption of the dance kids.
+Choose single table substitution or first substitution and then shift encryption method. If you choose to replace first and then shift, you can enter the number of shifts yourself.
+Enter the plain text in the plain text box, the characters are English letters.
+Click the Generate button to generate the corresponding sheet music or dance kids picture.
+Click the Save button to save the generated picture to the local.
+
+ **********

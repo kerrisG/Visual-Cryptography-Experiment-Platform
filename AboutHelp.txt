@@ -1,0 +1,13 @@
+===>>Visual Cryptography Experiment Platform
+
+The field of cryptography in network security is also a top priority of research. The visualization of cryptography is mostly used in teaching, but in contemporary cryptography visualization teaching is still not systematic enough, and the display in the classroom is still lacking, the systematic display The emergence of cryptographic experiment platforms for cryptography encryption and decryption methods and effects is conducive to changing this status quo, promoting teaching effects and better accomplishing teaching goals.
+
+(1) Objective
+
+Implement a practical visual password experiment platform based on image media, which can visually reproduce the block encryption effect and efficiency of classical password (dancing kids), symmetric password and asymmetric password.
+
+(2) Development environment
+
+In order to be widely used in the visual password platform, the system chose the current mainstream windows, and the visual implementation chose MFC of Microsoft Visual Studio 2015. If it is applied to other versions, it is necessary to adjust the writing of some functions.
+ 
+**********
